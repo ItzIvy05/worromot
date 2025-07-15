@@ -1,29 +1,29 @@
-#### SkyGround-Chronicles
+#### Worromot - Tamriel gone off the skooma again
 
-![](https://raw.githubusercontent.com/ItzIvy05/SkyGround-Chronicles/refs/heads/main/Resources/Main.png)
+![](https://raw.githubusercontent.com/ItzIvy05/worromot/refs/heads/main/Resources/122.jpg)
 
 <p align="center">
-  <a href="https://www.nexusmods.com/skyrimspecialedition/mods/147012">Nexus</a> |
-  <a href="https://loadorderlibrary.com/lists/skyground-chronicles-2">Load Order﻿﻿</a> |
+  <a href="https://www.nexusmods.com/skyrimspecialedition/mods/148216">Nexus</a> |
+  <a href="https://loadorderlibrary.com/lists/worromot-tamriel-gone-off-the-skooma-again">Load Order﻿﻿</a> |
   <a href="https://discord.gg/FB62v6whbh">Discord</a>
 </p>
 
 #### Introduction
 
-SkyGround Chronicles is a Wabbajack modlist built around Requiem, Legacy of the Dragonborn, and BFCO with its full Stance system, all while pushing visuals to the limit. It supports both ENB and Community Shaders, delivering a visually stunning and deeply immersive RPG experience.
+Built by ChickenMike, Ivy and MissileMann, Worromot is the Elder Scrolls V: Skyrim experience that asks, “What if Todd had no rules?” This modlist is a chaotic love letter to memes, mayhem, and moments that make you laugh so hard you accidentally FUS RO DAH your keyboard. 
 
-If you're curious about the specific mods in the list, the full modlist can be viewed [here](https://loadorderlibrary.com/lists/skyground-chronicles-2).
+If you're curious about the specific mods in the list, the full modlist can be viewed [here](https://loadorderlibrary.com/lists/worromot-tamriel-gone-off-the-skooma-again).
 
 ### System Requirements
 
 **DISCLAIMERS:**
-- SkyGround Chronicles only supports English Steam versions of full Skyrim AE. GOG and other languages are not supported.
+- Worromot only supports English Steam versions of full Skyrim AE. GOG and other languages are not supported.
 - HDD and external SSD installs are absolutely not supported.
 - Any remote PC / desktop services or apps are not supported. (Including Steam Link)
 - Only Windows 10/11 operating systems are supported. Windows LTSC, special variants, lightened editions or any other modified variant **WILL NOT WORK.**
 - At least 8GB of GPU VRAM minimum is recommended for the list (1080p), otherwise you'll experience frequent stutters in exteriors. Higher resolutions may require even more.
 
-![](https://raw.githubusercontent.com/ItzIvy05/SkyGround-Chronicles/refs/heads/main/Resources/SYS-RQ.png)
+![](https://raw.githubusercontent.com/ItzIvy05/worromot/refs/heads/main/Resources/SYS-RQ.png)
 
 
 ## Installation
@@ -36,7 +36,7 @@ If you're curious about the specific mods in the list, the full modlist can be v
 #### General Utilities
 Preventing Major Meyhem
 
-Before installing SkyGround Chronicles, please complete the following steps:<br/>
+Before installing Worromot, please complete the following steps:<br/>
 [**.NET 8.0 SDK**](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-8.0.404-windows-x64-installer)
 .NET is a free, cross-platform, open-source developer platform for building many different types of applications. This is required for Synthesis and Scrambled Bugs to function properly.<br/>
 [.NET 8.0 SDK (v8.0.404) - Windows x64 Installer](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-8.0.404-windows-x64-installer)<br/>
@@ -85,7 +85,7 @@ You’ll also need to add the Wabbajack list folder to your antivirus exclusion 
 
 Larger Skyrim modlists require a significant amount of memory and running out of memory **will** result in crashes and other potential issues. 
 
-Due to SkyGround Chronicles's size and number of files required to be handled for the list, this step is **NOT** optional. **Regardless of how much RAM or VRAM you have, please do this step.**
+Due to Worromot's size and number of files required to be handled for the list, this step is **NOT** optional. **Regardless of how much RAM or VRAM you have, please do this step.**
 
  To set up your pagefile:
 
